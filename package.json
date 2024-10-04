@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.0"
+  },
+  "name": "belajar-restfull",
+  "version": "1.0.0",
+  "description": "![API menggunakan php](image.png)",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
